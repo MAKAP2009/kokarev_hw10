@@ -1,0 +1,22 @@
+.products {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    max-width: 1200px; 
+    height: 400px;   
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+
+.text {
+    margin-bottom: 20px;
+    font-weight: 500;
+    font-size: 20px;
+    color: orange;
+}
+
+.products img {
+    height: 200px;
+}

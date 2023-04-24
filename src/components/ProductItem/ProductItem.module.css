@@ -1,0 +1,23 @@
+.products {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    justify-content: center;
+    width: 200px;
+    height: 100px;    
+}
+
+.button {
+    background-color: rgb(225, 238, 245); 
+    color: rgb(8, 8, 8);
+    font-size: 16px;    
+    margin: 10px;
+    cursor: pointer;
+}
+
+.product {
+    margin: 0;
+    color: rgb(244, 246, 244);
+    font-weight: 600;
+    font-size: 28px;
+}
